@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.exe
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.deps.json
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.runtimeconfig.json
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.runtimeconfig.dev.json
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.dll
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.pdb
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.AssemblyInfo.cs
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.dll
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.pdb
+C:\Users\user\Desktop\Programming\C#\SelfStudy\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.genruntimeconfig.cache
